@@ -58,6 +58,11 @@ All models will be evaluated using consistent performance metrics, accuracy, ROC
 ### Modeling & Analysis
 Together, these four techniques create a systematic modeling framework that progresses from a simple, interpretable model to more complex and powerful ones. This multi-model approach ensures a well-rounded analysis—revealing not only how accurately stroke can be predicted, but also which risk factors have the most significant influence, supporting data-driven prevention and decision-making in healthcare.
 
+#### I. Predicting Stroke with Decision Tree Analysis
+The decision tree is a visualization tool that helps identify the most important factors for predicting stroke risk. Each box represents a decision point, starting with the most critical factor, which branches into secondary factors based on answers. The color coding indicates stroke outcomes: blue for no stroke and orange for stroke. The depth of the tree is limited for clarity, focusing on key predictors such as age and glucose levels. Although these factors are strong predictors on their own, stroke risk is influenced by multiple interacting variables, pointing to its complex nature.
+<img width="6000" height="3000" alt="decisiontree" src="https://github.com/user-attachments/assets/ea94e922-1bd8-4bed-806b-e32ce4284ecc" />
+
+
 ### Expected Outcomes
 * Identification of top risk factors for stroke (e.g., age, glucose level, BMI, hypertension).
 * Comparison of predictive model performance to determine the most effective algorithm.
