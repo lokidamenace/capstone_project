@@ -36,7 +36,7 @@ This histogram illustrates the age distribution of individuals, distinguishing b
 <img width="3000" height="1800" alt="histogram" src="https://github.com/user-attachments/assets/de22d22d-ae90-422a-9715-a1c631c230e7" />
 
 #### Age versus Glucose Level By Stroke Status
-The scatter plot illustrates the relationship between age, average glucose levels, and stroke occurrence. Red dots represent individuals who had a stroke, while blue dots indicate those who did not. The plot shows a trend in which strokes are more common among older adults and are associated with higher average glucose levels. There is a notable overlap between stroke and non-stroke groups, suggesting a hypothesis that both age and elevated glucose levels are associated with an increased risk of stroke. Further analysis is needed to understand the combined impact of these variables on stroke likelihood.
+The scatter plot illustrates the relationship between age, average glucose levels, and stroke occurrence. Orange dots represent individuals who had a stroke, while blue dots indicate those who did not. The plot shows a trend in which strokes are more common among older adults and are associated with higher average glucose levels. There is a notable overlap between stroke and non-stroke groups, suggesting a hypothesis that both age and elevated glucose levels are associated with an increased risk of stroke. Further analysis is needed to understand the combined impact of these variables on stroke likelihood.
 <img width="3000" height="1800" alt="scatterplot (1)" src="https://github.com/user-attachments/assets/296e61e6-498d-4138-a735-3fa044b488b1" />
 
 #### Average Glucose Level by Stroke Status
